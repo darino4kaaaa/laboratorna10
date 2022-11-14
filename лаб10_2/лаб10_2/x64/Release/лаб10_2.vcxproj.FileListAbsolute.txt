@@ -1,0 +1,4 @@
+C:\Users\Ready2Go\source\repos\лаб10_2\лаб10_2\x64\Release\лаб10_2.vcxproj.AssemblyReference.cache
+C:\Users\Ready2Go\source\repos\лаб10_2\лаб10_2\x64\Release\лаб10_2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ready2Go\source\repos\лаб10_2\лаб10_2\x64\Release\лаб102.MyForm.resources
+C:\Users\Ready2Go\source\repos\лаб10_2\лаб10_2\x64\Release\лаб10_2.vcxproj.GenerateResource.cache
